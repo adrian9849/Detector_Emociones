@@ -1,4 +1,4 @@
-# **Face_Emotion**
+# **Detector Emociones**
 En este repositorio trabajaremos el entrenamiento de una red neuronal convolucional para la clasificación de emociones y la detección en tiempo real usando una cámara web. 
 
 ## Entrenamiento en google colab
